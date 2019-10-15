@@ -9,8 +9,11 @@
 boots the machine to a Linux Live CD.  What is the most likely cause?最可能的原因是什麼
    
 A. Ransomware 勒索軟件 https://reurl.cc/yykKD8
+
 B. Boot sector virus 引導區病毒 https://reurl.cc/rlLK3y
+
 C. Rootkit https://reurl.cc/L1NQa7
+
 D. Key logger 按鍵記錄器 https://reurl.cc/31ObKO
 
 

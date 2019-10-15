@@ -1145,14 +1145,19 @@ D. Vishing
 company and is primarily concerned about security for their web server. He has just
 finished running Nmap and OWASP Zap on the target web server. What is this activity
 called?
-A. Passive scanning
-B. Black-box testing
-C. Active scanning
-D. White-box testing
-150. You have just taken over as the CISO for a large bank. You are concerned about making
-sure all systems are secure. One major concern you have is security misconfiguration.
+A. Passive scanning 被動掃描https://reurl.cc/D1mxl6
+
+B. Black-box testing 黑盒測試https://reurl.cc/lLvpQA
+
+C. Active scanning  主動掃描https://reurl.cc/D1mxl6
+
+D. White-box testing 白盒測試https://reurl.cc/e5XpzW
+
+150. You have just taken over as 您剛剛接手了 the CISO for a large bank大銀行. You are concerned擔心 about making
+sure all systems are secure確定全部系統都安全. One major concern you have is security安全 misconfiguration配置錯誤.
 Which of the following is not a common security misconfiguration?
-A. Unpatched operating system
-B. Default accounts with passwords
-C. Unneeded services running
-D. No firewall running
+A. Unpatched operating system 未修補的操作系統
+B. Default accounts with passwords 帶密碼的默認帳戶
+C. Unneeded services running 運行不必要的服務
+D. No firewall running 沒有防火牆運行
+            A:D

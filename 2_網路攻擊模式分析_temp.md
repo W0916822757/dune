@@ -4,13 +4,13 @@
 
 
 
-1. John is analyzing strange behavior on computers in his network. He believes there is malware
-on the machines. The symptoms include strange behavior that persists, even if he
-boots the machine to a Linux Live CD. What is the most likely cause?
-A. Ransomware
-B. Boot sector virus
-C. Rootkit
-D. Key logger
+1. John is analyzing分析 strange奇怪 behavior行為 on computers電腦 in his network網路. He believes認為 there is malware惡意軟件 on the machines機器. The symptoms症狀 include包刮 strange奇怪 behavior行為 that persists, even if he最可能的原因是什麼
+boots the machine to a Linux Live CD. What is the most likely cause?最可能的原因是什麼
+A. Ransomware 勒索軟件 https://blog.trendmicro.com.tw/?p=11161
+B. Boot sector virus 引導區病毒 https://www.easyatm.com.tw/wiki/%E5%BC%95%E5%B0%8E%E5%8D%80%E7%97%85%E6%AF%92
+C. Rootkit http://mypaper.pchome.com.tw/kain0913/post/1325421387
+D. Key logger 按鍵記錄器 https://blog.techbridge.cc/2018/03/02/css-key-logger/
+
 
 2. Ahmed is a sales manager with a major insurance company. He has received an email that
 is encouraging him to click on a link and fill out a survey. He is suspicious of the email,

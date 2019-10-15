@@ -18,11 +18,6 @@ D. Key logger 👇按鍵記錄器👇 https://reurl.cc/31ObKO
 
 
 
-
-
-
-
-
 2. Ahmed is a是 sales銷售 manager經理 with a major insurance company保險公司. He has received an email that他有收到一封電子郵件
 is encouraging鼓勵 him to click點擊 on a link連結 and fill out a survey填寫問卷. He is suspicious可疑 of the email電子郵件,
 but但是 it does mention提到 a major主要 insurance保險 association協會, and that makes him think it might be
@@ -51,21 +46,28 @@ C. Trojan horse 🐎特洛伊木馬https://reurl.cc/zyAKXp
 
 D. Rootkit https://reurl.cc/L1NQa7
 
-4. You are responsible for incident response at Acme bank. The Acme bank website has been
-attacked. The attacker used the login screen, but rather than enter login credentials, he or
-she entered some odd text: ' or '1' = '1. What is the best description for this attack?
-A. Cross-site scripting
-B. Cross-site request forgery
-C. SQL injection
-D. ARP poisoning
+4. You are responsible負責 for incident事件 response響應 at Acme bank銀行. The Acme bank website網站 has been
+attacked被攻擊. The attacker攻擊 used the login登入 screen螢幕, but但 rather than enter login credentials, he or
+she entered some odd text: ' or '1' = '1.他輸入了奇怪的登入密碼' or '1' = '1 What is the best description for this attack?
+A. Cross-site scripting 跨站點腳本https://reurl.cc/dr7qk8
 
-5. Juanita is a network administrator for a small accounting firm. The users on her network
-are complaining of slow connectivity. When she examines the firewall logs, she observes a
-large number of half-open connections. What best describes this attack?
-A. DDoS
-B. SYN flood
-C. Buffer overflow
-D. ARP poisoning
+B. Cross-site request forgery 跨站請求偽造https://reurl.cc/4gQbeK
+
+C. SQL injection SQL注入https://reurl.cc/ObVRN7
+
+D. ARP poisoning  ARP欺騙https://reurl.cc/EKGb0R
+
+
+5. Juanita is a network網路 administrator管理員 for a small小的 accounting會計 firm公司. The users on her network網上的用戶
+are complaining抱怨 of slow connectivity連接慢. When she examines檢查 the firewall logs防火牆日誌, she observes a
+large number of half-open connections觀察到有大量的連結請求. What best describes this attack?
+A. DDoS 分散式阻斷服務攻擊https://reurl.cc/k5l8K3
+
+B. SYN flood 🌊SYN洪水(也是種阻斷服務攻擊)https://reurl.cc/jdlm0M
+
+C. Buffer overflow 緩衝區溢位https://reurl.cc/W4D89D
+
+D. ARP poisoning ARP欺騙https://reurl.cc/EKGb0R
 
 6. Frank is deeply concerned about attacks to his company’s e-commerce server. He is particularly
 worried about cross-site scripting and SQL injection. Which of the following

@@ -18,6 +18,9 @@ D. Key logger 👇按鍵記錄器👇 https://reurl.cc/31ObKO
 
 
 
+
+
+
 2. Ahmed is a是 sales銷售 manager經理 with a major insurance company保險公司. He has received an email that他有收到一封電子郵件
 is encouraging鼓勵 him to click點擊 on a link連結 and fill out a survey填寫問卷. He is suspicious可疑 of the email電子郵件,
 but但是 it does mention提到 a major主要 insurance保險 association協會, and that makes him think it might be
@@ -33,6 +36,10 @@ C. Spear phishing 魚叉式網絡釣魚🐟🍴🏻https://reurl.cc/rlLKoE
 D. Trojan horse 🐎特洛伊木馬https://reurl.cc/zyAKXp
 
 
+
+
+
+
 3. You are a security安全 administrator管理員 for a medium-sized中型 bank銀行. You have discovered發現 a piece區塊 of
 software軟件 on your bank’s銀行的 database資料庫 server that is not supposed不應該 to be there. It appears出現的 that
 the software軟件 will begin deleting database數據庫 files檔案 if a specific employee is terminated. What
@@ -46,6 +53,10 @@ C. Trojan horse 🐎特洛伊木馬https://reurl.cc/zyAKXp
 
 D. Rootkit https://reurl.cc/L1NQa7
 
+
+
+
+
 4. You are responsible負責 for incident事件 response響應 at Acme bank銀行. The Acme bank website網站 has been
 attacked被攻擊. The attacker攻擊 used the login登入 screen螢幕, but但 rather than enter login credentials, he or
 she entered some odd text: ' or '1' = '1.他輸入了奇怪的登入密碼' or '1' = '1 What is the best description for this attack?
@@ -56,6 +67,10 @@ B. Cross-site request forgery 跨站請求偽造https://reurl.cc/4gQbeK
 C. SQL injection SQL注入https://reurl.cc/ObVRN7
 
 D. ARP poisoning  ARP欺騙https://reurl.cc/EKGb0R
+
+
+
+
 
 
 5. Juanita is a network網路 administrator管理員 for a small小的 accounting會計 firm公司. The users on her network網上的用戶

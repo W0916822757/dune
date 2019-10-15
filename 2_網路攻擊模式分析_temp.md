@@ -84,11 +84,16 @@ C. Buffer overflow 緩衝區溢位https://reurl.cc/W4D89D
 
 D. ARP poisoning ARP欺騙https://reurl.cc/EKGb0R
 
-6. Frank is deeply concerned about attacks to his company’s e-commerce server. He is particularly
-worried about cross-site scripting and SQL injection. Which of the following
+
+
+
+6. Frank is deeply concerned about attacks to his company’s e-commerce電子商務 server伺服器. He is particularly
+worried擔心 about cross-site跨站 scripting腳本 and SQL injectionSQL 注入. Which of the following
 would best defend against these two specific attacks?
-A. Encrypted web traffic
-B. Filtering user input
+A. Encrypted web traffic 加密的網絡流量https://reurl.cc/b67d4E
+
+B. Filtering user input 過濾用戶輸入https://reurl.cc/M7R213
+
 C. A firewall
 D. An IDS
 

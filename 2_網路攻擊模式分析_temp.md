@@ -8,13 +8,13 @@
 1. John is analyzing分析 strange奇怪 behavior行為 on computers電腦 in his network網路. He believes認為 there is malware惡意軟件 on the    machines機器. The symptoms症狀 include包刮 strange奇怪 behavior行為 that persists, even if he
 boots the machine to a Linux Live CD.  What is the most likely cause?最可能的原因是什麼
    
-A. Ransomware 勒索軟件 https://reurl.cc/yykKD8
+A. Ransomware 💪🏽勒索軟件 https://reurl.cc/yykKD8
 
-B. Boot sector virus 引導區病毒 https://reurl.cc/rlLK3y
+B. Boot sector virus 🕷引導區病毒 https://reurl.cc/rlLK3y
 
 C. Rootkit https://reurl.cc/L1NQa7
 
-D. Key logger 按鍵記錄器 https://reurl.cc/31ObKO
+D. Key logger 👇按鍵記錄器👇 https://reurl.cc/31ObKO
 
 
 
@@ -23,23 +23,33 @@ D. Key logger 按鍵記錄器 https://reurl.cc/31ObKO
 
 
 
-2. Ahmed is a sales manager with a major insurance company. He has received an email that
-is encouraging him to click on a link and fill out a survey. He is suspicious of the email,
-but it does mention a major insurance association, and that makes him think it might be
-legitimate. Which of the following best describes this attack?
-A. Phishing
-B. Social engineering
-C. Spear phishing
-D. Trojan horse
+2. Ahmed is a是 sales銷售 manager經理 with a major insurance company保險公司. He has received an email that他有收到一封電子郵件
+is encouraging鼓勵 him to click點擊 on a link連結 and fill out a survey填寫問卷. He is suspicious可疑 of the email電子郵件,
+but但是 it does mention提到 a major主要 insurance保險 association協會, and that makes him think it might be
+legitimate讓他覺的是合法的. Which of the following best describes this attack?以下答案哪一個個最適合此攻擊?
 
-3. You are a security administrator for a medium-sized bank. You have discovered a piece of
-software on your bank’s database server that is not supposed to be there. It appears that
-the software will begin deleting database files if a specific employee is terminated. What
+A. Phishing 網路釣魚🐟https://reurl.cc/xDlKoE
+
+B. Social engineering 社會工程https://reurl.cc/vnkKoa
+
+C. Spear phishing 魚叉式網絡釣魚🐟🍴🏻https://reurl.cc/rlLKoE
+
+
+D. Trojan horse 🐎特洛伊木馬https://reurl.cc/zyAKXp
+
+
+3. You are a security安全 administrator管理員 for a medium-sized中型 bank銀行. You have discovered發現 a piece區塊 of
+software軟件 on your bank’s銀行的 database資料庫 server that is not supposed不應該 to be there. It appears出現的 that
+the software軟件 will begin deleting database數據庫 files檔案 if a specific employee is terminated. What
 best describes this?
-A. Worm
-B. Logic bomb
-C. Trojan horse
-D. Rootkit
+
+A. Worm  🐛蠕蟲https://reurl.cc/mdlk2W
+
+B. Logic bomb 💣邏輯炸彈https://reurl.cc/Yl8koX
+
+C. Trojan horse 🐎特洛伊木馬https://reurl.cc/zyAKXp
+
+D. Rootkit https://reurl.cc/L1NQa7
 
 4. You are responsible for incident response at Acme bank. The Acme bank website has been
 attacked. The attacker used the login screen, but rather than enter login credentials, he or

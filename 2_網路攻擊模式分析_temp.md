@@ -1152,6 +1152,7 @@ D. Vishing 網路釣魚 https://reurl.cc/ObvE19
 149.  Terrance is conductina客戶 penetration test滲透測試 for a client. The client is a major e-commerce電商
 company公司 and is primarily concerned about security安全 for their web server. He has just
 finished running運行 Nmap and OWASP Zap on the target web server. What is this activity called?
+
 A. Passive scanning 被動掃描https://reurl.cc/D1mxl6
 
 B. Black-box testing 黑盒測試https://reurl.cc/lLvpQA

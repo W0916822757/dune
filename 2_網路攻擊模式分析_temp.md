@@ -1135,16 +1135,23 @@ A. Vulnerability scans are done by employees and penetration tests by outside te
 B. Vulnerability scans only use tools; penetration tests are manual.
 C. Vulnerability scans just identify issues; penetration tests attempt to exploit them.
 D. Vulnerability scans are usually white-box tests; penetration tests are black-box tests.
-148. When an attacker breaches one system and uses that as a base to attack a related system,
+
+
+
+148. When an attacker攻擊者breaches漏洞 one system系統 and uses that as a base to attack a relate system系統關聯,
 what is this called?
-A. Man-in-the-middle
-B. Pivot
-C. Shimming
-D. Vishing
-149. Terrance is conducting a penetration test for a client. The client is a major e-commerce
-company and is primarily concerned about security for their web server. He has just
-finished running Nmap and OWASP Zap on the target web server. What is this activity
-called?
+A. Man-in-the-middle 中間人攻擊https://reurl.cc/0z1XV6
+
+B. Pivot https://reurl.cc/b69G6r
+
+C. Shimming https://reurl.cc/gvDQ7p
+
+D. Vishing 網路釣魚 https://reurl.cc/ObvE19
+    A:A
+
+149.  Terrance is conductina客戶 penetration test滲透測試 for a client. The client is a major e-commerce電商
+company公司 and is primarily concerned about security安全 for their web server. He has just
+finished running運行 Nmap and OWASP Zap on the target web server. What is this activity called?
 A. Passive scanning 被動掃描https://reurl.cc/D1mxl6
 
 B. Black-box testing 黑盒測試https://reurl.cc/lLvpQA
@@ -1152,12 +1159,20 @@ B. Black-box testing 黑盒測試https://reurl.cc/lLvpQA
 C. Active scanning  主動掃描https://reurl.cc/D1mxl6
 
 D. White-box testing 白盒測試https://reurl.cc/e5XpzW
+    A:A
+
+
+
 
 150. You have just taken over as 您剛剛接手了 the CISO for a large bank大銀行. You are concerned擔心 about making
 sure all systems are secure確定全部系統都安全. One major concern you have is security安全 misconfiguration配置錯誤.
 Which of the following is not a common security misconfiguration?
+
 A. Unpatched operating system 未修補的操作系統
+
 B. Default accounts with passwords 帶密碼的默認帳戶
+
 C. Unneeded services running 運行不必要的服務
+
 D. No firewall running 沒有防火牆運行
             A:D

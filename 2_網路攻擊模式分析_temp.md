@@ -14,11 +14,10 @@ B. Boot sector virus 🕷引導區病毒 https://tinyurl.com/y5tx9kjj
 
 C. Rootkit https://tinyurl.com/y449orna
 
-D. Key logger 👇按鍵記錄器👇 https://tinyurl.com/y4r7kbo8
+D. Key logger 👇按鍵記錄器👇 https://tinyurl.com/y4r7kbo8        A:B
 
 
        
-
 
 
 2. Ahmed is a是 sales銷售 manager經理 with a major insurance company保險公司. He has received an email that他有收到一封電子郵件
@@ -32,7 +31,7 @@ B. Social engineering 社會工程 https://tinyurl.com/y6hq4fq7
 
 C. Spear phishing 魚叉式網絡釣魚🐟🍴 https://tinyurl.com/y4aamul4
 
-D. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b
+D. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b     A:C
 
 
 
@@ -44,13 +43,13 @@ software軟件 on your bank’s銀行的 database資料庫 server that is not su
 the software軟件 will begin deleting database數據庫 files檔案 if a specific employee is terminated. What
 best describes this?
 
-A. Worm  🐛蠕蟲https://tinyurl.com/y2vrvgk6
+A. Worm  🐛蠕蟲 https://tinyurl.com/y2vrvgk6
 
-B. Logic bomb 💣邏輯炸彈https://tinyurl.com/yyrekpht
+B. Logic bomb 💣邏輯炸彈 https://tinyurl.com/yyrekpht
 
-C. Trojan horse 🐎特洛伊木馬https://tinyurl.com/y2vdqa8b
+C. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b
 
-D. Rootkit https://tinyurl.com/y449orna
+D. Rootkit https://tinyurl.com/y449orna     A:C
 
 
 
@@ -98,9 +97,7 @@ B. Filtering user input 📊過濾用戶輸入https://tinyurl.com/y6yrk77y
 
 C. A firewall 🔥防火牆 https://tinyurl.com/y6a5jkqf
 
-D. An IDS  👽入侵偵測系統 https://tinyurl.com/798esgu
-
- A:B
+D. An IDS  👽入侵偵測系統 https://tinyurl.com/798esgu                 A:B
 
 
 
@@ -114,8 +111,7 @@ B. Clickjacking 👤點擊劫持 https://tinyurl.com/y6cc37uv
 
 C. Rogue access point ❗流氓接入點https://tinyurl.com/y6ym2s73
 
-D. Bluejacking 🔢二十一點 https://tinyurl.com/zp7j862
-   A:C
+D. Bluejacking 🔢二十一點 https://tinyurl.com/zp7j862                    A:C
 
 
 8. What type of attack depends on the attacker entering JavaScript into a text area that is intended for users to enter text that will be viewed by other users?
@@ -126,8 +122,7 @@ B. Clickjacking 👤點擊劫持 https://tinyurl.com/y6cc37uv
 
 C Cross-site scripting 📝跨站點腳本 https://tinyurl.com/m725mbb
 
-D. Bluejacking 🔢二十一點 https://tinyurl.com/zp7j862
-    A:C
+D. Bluejacking 🔢二十一點 https://tinyurl.com/zp7j862               A:C
 
 9. A sales manager銷售經理 at your company公司 is complaining抱怨 about slow performance on his computer關於電腦效能低下.When you thoroughly investigate透過調查 the issue問題, you find發現 spyware on his computer. He
 insists咬定 that the only thing he has有 downloaded下載 recently最近 was a freeware stock股票 trading交易 application應用程式.
@@ -139,8 +134,7 @@ B. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b
 
 C. Rootkit 👤 https://tinyurl.com/y449orna
 
-D. Macro virus 😈巨集病毒 https://tinyurl.com/y6qzwq2n 
-   A:B
+D. Macro virus 😈巨集病毒 https://tinyurl.com/y6qzwq2n            A:B
 
 
 
@@ -155,17 +149,19 @@ B. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b
 
 C. Backdoor  🚪後門 https://tinyurl.com/yxpf8rtt
 
-D. Rootkit 👤 https://tinyurl.com/y449orna
-   A:C
+D. Rootkit 👤 https://tinyurl.com/y449orna                  A:C
 
-11. Teresa is the security manager for a mid-sized insurance company. She receives a call
-from law enforcement, telling her that some computers on her network participated in a
-massive denial-of-service (DoS) attack. Teresa is certain that none of the employees at her
+11. Teresa is the security manage安全管理人員 for a mid-sized insurance company保險公司. She receives a call接到電話 from來自 law enforcement執法人員, telling告訴 her that some computers on her network participated in amassive denial-of-service (DoS) attack電腦在網路上參加大規模dos 攻擊. Teresa is certain that none of the employees at her
 company would be involved in a cybercrime. What would best explain this scenario?
-A. It is a result of social engineering.
-B. The machines all have backdoors.
-C. The machines are bots.
-D. The machines are infected with crypto-viruses.
+A. It is a result of social engineering 👥是社交工程的結果 https://tinyurl.com/y6hq4fq7
+
+B. The machines all have backdoors 🚪機器後門 https://tinyurl.com/yxpf8rtt
+
+C. The machines are bots. 👽機器是機器人 
+
+D. The machines are infected with crypto-viruses 😈機器感染加密病毒      A:B
+  
+
 
 12. Mike is a network administrator with a small financial services company. He has received
 a popup window that states his files are now encrypted and he must pay .5 bitcoins to get

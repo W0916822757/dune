@@ -8,13 +8,13 @@
 1. John is analyzing分析 strange奇怪 behavior行為 on computers電腦 in his network網路. He believes認為 there is malware惡意軟件 on the    machines機器. The symptoms症狀 include包刮 strange奇怪 behavior行為 that persists, even if he
 boots the machine to a Linux Live CD.  What is the most likely cause?最可能的原因是什麼
    
-A. Ransomware 💪🏽勒索軟件 https://reurl.cc/yykKD8
+A. Ransomware 💪🏽勒索軟件 https://tinyurl.com/yy33b2yg
 
-B. Boot sector virus 🕷引導區病毒 https://reurl.cc/rlLK3y
+B. Boot sector virus 🕷引導區病毒 https://tinyurl.com/y5tx9kjj
 
-C. Rootkit https://reurl.cc/L1NQa7
+C. Rootkit https://tinyurl.com/y449orna
 
-D. Key logger 👇按鍵記錄器👇 https://reurl.cc/31ObKO
+D. Key logger 👇按鍵記錄器👇 https://tinyurl.com/y4r7kbo8
 
 
        
@@ -26,14 +26,13 @@ is encouraging鼓勵 him to click點擊 on a link連結 and fill out a survey填
 but但是 it does mention提到 a major主要 insurance保險 association協會, and that makes him think it might be
 legitimate讓他覺的是合法的. Which of the following best describes this attack?以下答案哪一個個最適合此攻擊?
 
-A. Phishing 網路釣魚🐟https://reurl.cc/xDlKoE
+A. Phishing 網路釣魚🐟https://tinyurl.com/ya9qsqq4
 
-B. Social engineering 社會工程https://reurl.cc/vnkKoa
+B. Social engineering 社會工程 https://tinyurl.com/y6hq4fq7
 
-C. Spear phishing 魚叉式網絡釣魚🐟🍴🏻https://reurl.cc/rlLKoE
+C. Spear phishing 魚叉式網絡釣魚🐟🍴 https://tinyurl.com/y4aamul4
 
-
-D. Trojan horse 🐎特洛伊木馬https://reurl.cc/zyAKXp
+D. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b
 
 
 
@@ -45,13 +44,13 @@ software軟件 on your bank’s銀行的 database資料庫 server that is not su
 the software軟件 will begin deleting database數據庫 files檔案 if a specific employee is terminated. What
 best describes this?
 
-A. Worm  🐛蠕蟲https://reurl.cc/mdlk2W
+A. Worm  🐛蠕蟲https://tinyurl.com/y2vrvgk6
 
-B. Logic bomb 💣邏輯炸彈https://reurl.cc/Yl8koX
+B. Logic bomb 💣邏輯炸彈https://tinyurl.com/yyrekpht
 
-C. Trojan horse 🐎特洛伊木馬https://reurl.cc/zyAKXp
+C. Trojan horse 🐎特洛伊木馬https://tinyurl.com/y2vdqa8b
 
-D. Rootkit https://reurl.cc/L1NQa7
+D. Rootkit https://tinyurl.com/y449orna
 
 
 
@@ -60,13 +59,14 @@ D. Rootkit https://reurl.cc/L1NQa7
 4. You are responsible負責 for incident事件 response響應 at Acme bank銀行. The Acme bank website網站 has been
 attacked被攻擊. The attacker攻擊 used the login登入 screen螢幕, but但 rather than enter login credentials, he or
 she entered some odd text: ' or '1' = '1.他輸入了奇怪的登入密碼' or '1' = '1 What is the best description for this attack?
-A. Cross-site scripting 跨站點腳本https://reurl.cc/dr7qk8
 
-B. Cross-site request forgery 跨站請求偽造https://reurl.cc/4gQbeK
+A. Cross-site scripting 📝跨站點腳本 https://tinyurl.com/m725mbb
 
-C. SQL injection SQL注入https://reurl.cc/ObVRN7
+B. Cross-site request forgery 📩跨站請求偽造 https://tinyurl.com/yyjsdbja
 
-D. ARP poisoning  ARP欺騙https://reurl.cc/EKGb0R
+C. SQL injection 💊SQL注入 https://tinyurl.com/y44ohaka
+
+D. ARP poisoning  ⛔ARP欺騙 https://tinyurl.com/y2wptod8
 
 
 
@@ -76,13 +76,14 @@ D. ARP poisoning  ARP欺騙https://reurl.cc/EKGb0R
 5. Juanita is a network網路 administrator管理員 for a small小的 accounting會計 firm公司. The users on her network網上的用戶
 are complaining抱怨 of slow connectivity連接慢. When she examines檢查 the firewall logs防火牆日誌, she observes a
 large number of half-open connections觀察到有大量的連結請求. What best describes this attack?
-A. DDoS 分散式阻斷服務攻擊https://reurl.cc/k5l8K3
 
-B. SYN flood 🌊SYN洪水(也是種阻斷服務攻擊)https://reurl.cc/jdlm0M
+A. DDoS 分散式阻斷服務攻擊 https://tinyurl.com/yxelz943
 
-C. Buffer overflow 緩衝區溢位https://reurl.cc/W4D89D
+B. SYN flood 🌊SYN洪水(也是種阻斷服務攻擊) https://zh.wikipedia.org/wiki/SYN_flood
 
-D. ARP poisoning ARP欺騙https://reurl.cc/EKGb0R
+C. Buffer overflow 緩衝區溢位 https://tinyurl.com/yy33b2yg
+
+D. ARP poisoning ⛔ARP欺騙 https://tinyurl.com/y2wptod8
 
 
 
@@ -90,46 +91,72 @@ D. ARP poisoning ARP欺騙https://reurl.cc/EKGb0R
 6. Frank is deeply concerned about attacks to his company’s e-commerce電子商務 server伺服器. He is particularly
 worried擔心 about cross-site跨站 scripting腳本 and SQL injectionSQL 注入. Which of the following
 would best defend against these two specific attacks?
-A. Encrypted web traffic 加密的網絡流量https://reurl.cc/b67d4E
 
-B. Filtering user input 過濾用戶輸入https://reurl.cc/M7R213
+A. Encrypted web traffic 🔐加密的網絡流量https://tinyurl.com/y3s97nvw
 
-C. A firewall
-D. An IDS
+B. Filtering user input 📊過濾用戶輸入https://tinyurl.com/y6yrk77y
 
-7. You are responsible for network security at Acme Company. 
-Users have been reporting that personal data is being stolen when using the wireless network. They all insist they
-only connect to the corporate wireless access point (WAP). However, logs for the WAP
-show that these users have not connected to it. Which of the following could best explain
+C. A firewall 🔥防火牆 https://tinyurl.com/y6a5jkqf
+
+D. An IDS  👽入侵偵測系統 https://tinyurl.com/798esgu
+
+ A:B
+
+
+
+7. You are responsible負責 for network securit網路安全 at Acme Company公司. 
+Users 用戶have been reporting報告 that personal個人 data數據 is being stolen偷 when using the wireless network無線網路. They all insist they only connect 連接點 to the corporate wireless access point (WAP)連接到公司的wifi. However, logs for the WAP show that these users have not connected連接的 to it. Which of the following could best explain
 this situation?
-A. Session hijacking
-B. Clickjacking
-C. Rogue access point
-D. Bluejacking
+
+A. Session hijacking 😈竊取 Session ID https://tinyurl.com/y24d3fbl
+
+B. Clickjacking 👤點擊劫持 https://tinyurl.com/y6cc37uv
+
+C. Rogue access point ❗流氓接入點https://tinyurl.com/y6ym2s73
+
+D. Bluejacking 🔢二十一點 https://tinyurl.com/zp7j862
+   A:C
+
 
 8. What type of attack depends on the attacker entering JavaScript into a text area that is intended for users to enter text that will be viewed by other users?
-A. SQL injection
-B. Clickjacking
-C. Cross-site scripting
-D. Bluejacking
 
-9. A sales manager at your company is complaining about slow performance on his computer.
-When you thoroughly investigate the issue, you find spyware on his computer. He
-insists that the only thing he has downloaded recently was a freeware stock trading application.
+A. SQL injection 💊SQL注入 https://tinyurl.com/y44ohaka
+
+B. Clickjacking 👤點擊劫持 https://tinyurl.com/y6cc37uv
+
+C Cross-site scripting 📝跨站點腳本 https://tinyurl.com/m725mbb
+
+D. Bluejacking 🔢二十一點 https://tinyurl.com/zp7j862
+    A:C
+
+9. A sales manager銷售經理 at your company公司 is complaining抱怨 about slow performance on his computer關於電腦效能低下.When you thoroughly investigate透過調查 the issue問題, you find發現 spyware on his computer. He
+insists咬定 that the only thing he has有 downloaded下載 recently最近 was a freeware stock股票 trading交易 application應用程式.
 What would best explain this situation?
-A. Logic bomb
-B. Trojan horse
-C. Rootkit
-D. Macro virus
+
+A. Logic bomb 💣邏輯炸彈 https://tinyurl.com/yyrekpht
+
+B. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b
+
+C. Rootkit 👤 https://tinyurl.com/y449orna
+
+D. Macro virus 😈巨集病毒 https://tinyurl.com/y6qzwq2n 
+   A:B
+
+
 
 10. Your company outsourced development of an accounting application to a local programming
 firm. After three months of using the product, one of your accountants accidently
 discovers a way to log in and bypass all security and authentication. What best describes
-this?
-A. Logic bomb
-B. Trojan horse
-C. Backdoor
-D. Rootkit
+this? 
+
+A. Logic bomb 💣邏輯炸彈 https://tinyurl.com/yyrekpht
+
+B. Trojan horse 🐎特洛伊木馬 https://tinyurl.com/y2vdqa8b
+
+C. Backdoor  🚪後門 https://tinyurl.com/yxpf8rtt
+
+D. Rootkit 👤 https://tinyurl.com/y449orna
+   A:C
 
 11. Teresa is the security manager for a mid-sized insurance company. She receives a call
 from law enforcement, telling her that some computers on her network participated in a

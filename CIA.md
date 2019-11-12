@@ -11,7 +11,7 @@ C-I-A
 
 可 用 性 (Availability) - 讓 資 訊 可 供 已 獲 授 權 人 士 在 需 要 時 取 用 。  
  
-–  Non-repudiation (不可否認性)  
+–  Non-repudiation (不可否認性)  確保網路交易的雙方無法否認曾進行過的交易、或通訊參與的雙方皆無法否認曾進行資料傳輸或接收訊息   
 –  Authentication (身分鑑別)  
 –  Authority (存取權限控制)  
 

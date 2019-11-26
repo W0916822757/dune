@@ -23,5 +23,12 @@ https://reurl.cc/Qp2v35
 
 Nmap
  https://reurl.cc/Rd2Z19
+ 
+ 
+ 
+SSO是single sign on縮寫，意思就是「單一簽入串整線上服務」，就是你只要登入一次，就可以使用所有同一系統的服務，不需要每次進入個別系統都要登入一次，而且不需要分別記住每個不同系統的帳號密碼。
+https://reurl.cc/xDeQO5
+
+
 
 
